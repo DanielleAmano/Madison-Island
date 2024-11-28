@@ -1,5 +1,5 @@
 <h1> Madison-Island Aautomation Project</h1>
-This is my first automation project with Java and Selenium, developed for a demo site: https://madison-island.com/ <br>
+This is my first automation project with Java and Selenium, developed for shopping demo site: https://madison-island.com/ <br>
 Further details can be found on the following website: __
 
 <h2> Overview </h2>
