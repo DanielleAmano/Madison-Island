@@ -14,4 +14,4 @@ Allure
 Git
 
 <h2> Reports </h2>
-by using Allore
+
