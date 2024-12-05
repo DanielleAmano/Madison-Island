@@ -23,13 +23,13 @@ Additionally, I designed the methods to be reusable and flexible, ensuring they 
 <img src="images/website-general.jpeg" alt="A beautiful scenery" class="center-image" width="750" >
 
 <h2>💻 Technologies </h2>
-☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br>
-💽<b>Selenium:</b> An open-source tool for automating web browsers, supporting multiple languages to test web applications.<br>
-🧰<b>TestNG:</b> A Java testing framework offering features like parallel execution and data-driven testing for large-scale test automation.<br>
-📊<b>Allure:</b> A test reporting framework that integrates with tools like TestNG to generate detailed, dynamic HTML reports.<br>
-🛠️ <b>Maven:</b> A build automation tool for managing Java project dependencies, structure, and the build lifecycle.<br>
-🌳<b>Git:</b> A distributed version control system for tracking code changes and enabling collaboration among developers.<br>
-🤖<b>Jenkins:</b> An open-source automation server for continuous integration and delivery (CI/CD), supporting various tool integrations.<br>
+<table><tr><td>☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br></td></tr></table>
+<table><tr><td>💽<b>Selenium:</b> An open-source tool for automating web browsers, supporting multiple languages to test web applications.<br></td></tr></table>
+<table><tr><td>🧰<b>TestNG:</b> A Java testing framework offering features like parallel execution and data-driven testing for large-scale test automation.<br></td></tr></table>
+<table><tr><td>📊<b>Allure:</b> A test reporting framework that integrates with tools like TestNG to generate detailed, dynamic HTML reports.<br></td></tr></table>
+<table><tr><td>🛠️ <b>Maven:</b> A build automation tool for managing Java project dependencies, structure, and the build lifecycle.<br></td></tr></table>
+<table><tr><td>🌳<b>Git:</b> A distributed version control system for tracking code changes and enabling collaboration among developers.<br></td></tr></table>
+<table><tr><td>🤖<b>Jenkins:</b> An open-source automation server for continuous integration and delivery (CI/CD), supporting various tool integrations.<br></td></tr></table>
 
 <h2>📊 Reports </h2>
 
