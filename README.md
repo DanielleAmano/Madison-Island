@@ -19,12 +19,16 @@ Additionally, I designed the methods to be reusable and flexible, ensuring they 
 <p>🌳<b>Git:</b> A distributed version control system for tracking code changes and enabling collaboration among developers.<br></p>
 <p>🤖<b>Jenkins:</b> An open-source automation server for continuous integration and delivery (CI/CD), supporting various tool integrations.<br></p>
 <br>
-<h2>📊 Reports </h2>
+
+
+<!--<h2>📊 Reports </h2>
+ -->
 
 <!-- <h2>📖 User Guide </h2>
 Please review this file: https://docs.google.com/document/d/1krdPGVB7Q1rza0lzCrx5gbg1yLOrP-CuVnI-RYg-5f0/edit?usp=sharing
 ads the file to GitHub
  -->
+ 
 
 <h2>📂 Project Structure</h2> 
 
@@ -34,26 +38,15 @@ graph TD;
     Web_Application-->tests;
     pages-->Automation_Infrastructure;
     tests-->Automation_Infrastructure;
-```
+``` 
 
-├───.settings
-├───bin
-│   ├───pages
-│   └───tests
-├───src
-│   ├───pages
-│   └───tests
-└───test-output
-    ├───Default suite
-    ├───junitreports
-    └───old
-        └───Default suite
-
-<h2> Contacts </h2>
-
-Thanks for taking the time to explore my GitHub!
-For any questions or feedback, feel free to contact me at: danielleamano01@gmail.com or 0502110677
-
+ 
+<h2> Contact</h2>
+Thanks for taking the time to explore my GitHub!<br>
+For any questions or feedback, feel free to contact me at: <br>
+📧 danielleamano01@gmail.com <br>
+📲 0502110677<br>
 <br>
-<img src="images/website-general.jpeg" alt="A beautiful scenery"  width="80"  >
+<img src="images/Picture.JPG" alt="A beautiful scenery"  width="200"  >
+
 [Back to top](#top)
