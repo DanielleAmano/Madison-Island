@@ -1,10 +1,11 @@
 <h1> Madison-Island Aautomation Project</h1>
 This is my first automation project with Java and Selenium, developed for shopping demo site: https://madison-island.com/ <br>
-Further details can be found on the following website: __
+<!--Further details can be found on the following website: __  -->
 
 <h2> 🔍 Overview </h2>
 I implemented the Page Object Model (POM) design pattern by organizing the project into 'Page' and 'Test' classes, where each web page is represented by its own corresponding class. <br>
 Additionally, I designed the methods to be reusable and flexible, ensuring they can easily accommodate new features as the application evolves.
+<img src="images/website-general.jpg" alt="A beautiful scenery" width="500" height="300">
 
 <h2>💻 Technologies </h2>
 ☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br>
@@ -21,5 +22,8 @@ Additionally, I designed the methods to be reusable and flexible, ensuring they 
 Please review this file: https://docs.google.com/document/d/1krdPGVB7Q1rza0lzCrx5gbg1yLOrP-CuVnI-RYg-5f0/edit?usp=sharing
  -->
 
+<h2> Project Structure</h2> 
 
 
+<h2>👩🏽‍🦱 Contacts </h2>
+For any questions or feedback, feel free to contact me at: danielleamano01@gmail.com or 0502110677
