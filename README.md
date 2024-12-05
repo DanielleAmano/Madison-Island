@@ -19,8 +19,8 @@ This is my first automation project with Java and Selenium, developed for shoppi
 
 <h2> 🔍 Overview </h2>
 I implemented the Page Object Model (POM) design pattern by organizing the project into 'Page' and 'Test' classes, where each web page is represented by its own corresponding class. <br>
-Additionally, I designed the methods to be reusable and flexible, ensuring they can easily accommodate new features as the application evolves.
-<img src="images/website-general.jpeg" alt="A beautiful scenery" class="center-image" width="800" >
+Additionally, I designed the methods to be reusable and flexible, ensuring they can easily accommodate new features as the application evolves. <br>
+<img src="images/website-general.jpeg" alt="A beautiful scenery" class="center-image" width="750" >
 
 <h2>💻 Technologies </h2>
 ☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br>
@@ -38,8 +38,23 @@ Please review this file: https://docs.google.com/document/d/1krdPGVB7Q1rza0lzCrx
  -->
 
 <h2>📂 Project Structure</h2> 
-
+├───.settings
+├───bin
+│   └───data
+│   ├───pages
+│   ├───tests
+│   └───utils
+├───src
+│   └───data
+│   ├───pages
+│   └───tests
+│   └───utils
+└───tests
+    └───tests
+└───utils
+    └───Utils
 
 <h2>👩🏽‍🦱 Contacts </h2>
+Thanks for taking the time to explore my GitHub!
 For any questions or feedback, feel free to contact me at: danielleamano01@gmail.com or 0502110677
 </body>
