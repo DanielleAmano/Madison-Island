@@ -32,12 +32,46 @@ ads the file to GitHub
 
 <h2>📂 Project Structure</h2> 
 
+```
+├───.settings
+├───bin
+│   ├───data
+│   ├───pages
+│   ├───tests
+│   └───utils
+├───src
+│   ├───data
+│   ├───pages
+│   ├───tests
+│   └───utils
+└───test-output
+    ├───Default suite
+    ├───junitreports
+    ├───old
+        ├───Default suite
+        └───Suite
+    └───Suite
+
+  ```
+
+<h2>🌱 Page Object Model</h2> 
+
 ```mermaid
 graph TD;
     Web_Application-->pages;
     Web_Application-->tests;
-    pages-->Automation_Infrastructure;
-    tests-->Automation_Infrastructure;
+    pages-->Page1;
+    pages-->Page2;
+    pages-->Page3;
+    tests-->Test1;
+    tests-->Test2;
+    tests-->Test3;
+    Page1-->Automation_Infrastructure;
+    Page2-->Automation_Infrastructure;
+    Page3-->Automation_Infrastructure;
+    Test1-->Automation_Infrastructure;
+    Test2-->Automation_Infrastructure;
+    Test3-->Automation_Infrastructure;
 ``` 
 
  
