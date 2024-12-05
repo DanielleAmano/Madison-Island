@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centering Image</title>
+    <title>Madison-Island Aautomation Project</title>
     <style>
         .center-image {
             display: block;
@@ -20,7 +20,7 @@ This is my first automation project with Java and Selenium, developed for shoppi
 <h2> 🔍 Overview </h2>
 I implemented the Page Object Model (POM) design pattern by organizing the project into 'Page' and 'Test' classes, where each web page is represented by its own corresponding class. <br>
 Additionally, I designed the methods to be reusable and flexible, ensuring they can easily accommodate new features as the application evolves.
-<img src="images/website-general.jpeg" alt="A beautiful scenery" class="center-image" width="600" >
+<img src="images/website-general.jpeg" alt="A beautiful scenery" class="center-image" width="800" >
 
 <h2>💻 Technologies </h2>
 ☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br>
@@ -37,7 +37,7 @@ Additionally, I designed the methods to be reusable and flexible, ensuring they 
 Please review this file: https://docs.google.com/document/d/1krdPGVB7Q1rza0lzCrx5gbg1yLOrP-CuVnI-RYg-5f0/edit?usp=sharing
  -->
 
-<h2> Project Structure</h2> 
+<h2>📂 Project Structure</h2> 
 
 
 <h2>👩🏽‍🦱 Contacts </h2>
