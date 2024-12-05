@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centering Image</title>
+    <style>
+        .center-image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
 <h1> Madison-Island Aautomation Project</h1>
 This is my first automation project with Java and Selenium, developed for shopping demo site: https://madison-island.com/ <br>
 <!--Further details can be found on the following website: __  -->
@@ -5,7 +20,7 @@ This is my first automation project with Java and Selenium, developed for shoppi
 <h2> 🔍 Overview </h2>
 I implemented the Page Object Model (POM) design pattern by organizing the project into 'Page' and 'Test' classes, where each web page is represented by its own corresponding class. <br>
 Additionally, I designed the methods to be reusable and flexible, ensuring they can easily accommodate new features as the application evolves.
-<img src="images/website-general.jpeg" alt="A beautiful scenery" width="600"; text-align: center;>
+<img src="images/website-general.jpeg" alt="A beautiful scenery" class="center-image" width="600" >
 
 <h2>💻 Technologies </h2>
 ☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br>
@@ -27,3 +42,4 @@ Please review this file: https://docs.google.com/document/d/1krdPGVB7Q1rza0lzCrx
 
 <h2>👩🏽‍🦱 Contacts </h2>
 For any questions or feedback, feel free to contact me at: danielleamano01@gmail.com or 0502110677
+</body>
