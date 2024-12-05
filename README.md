@@ -20,16 +20,17 @@ This is my first automation project with Java and Selenium, developed for shoppi
 <h2> 🔍 Overview </h2>
 I implemented the Page Object Model (POM) design pattern by organizing the project into 'Page' and 'Test' classes, where each web page is represented by its own corresponding class. <br>
 Additionally, I designed the methods to be reusable and flexible, ensuring they can easily accommodate new features as the application evolves. <br>
+<br>
 <img src="images/website-general.jpeg" alt="A beautiful scenery" class="center-image" width="750" >
 
 <h2>💻 Technologies </h2>
-<table><tr><td>☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br></td></tr></table>
-<table><tr><td>💽<b>Selenium:</b> An open-source tool for automating web browsers, supporting multiple languages to test web applications.<br></td></tr></table>
-<table><tr><td>🧰<b>TestNG:</b> A Java testing framework offering features like parallel execution and data-driven testing for large-scale test automation.<br></td></tr></table>
-<table><tr><td>📊<b>Allure:</b> A test reporting framework that integrates with tools like TestNG to generate detailed, dynamic HTML reports.<br></td></tr></table>
-<table><tr><td>🛠️ <b>Maven:</b> A build automation tool for managing Java project dependencies, structure, and the build lifecycle.<br></td></tr></table>
-<table><tr><td>🌳<b>Git:</b> A distributed version control system for tracking code changes and enabling collaboration among developers.<br></td></tr></table>
-<table><tr><td>🤖<b>Jenkins:</b> An open-source automation server for continuous integration and delivery (CI/CD), supporting various tool integrations.<br></td></tr></table>
+<p>☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br></p>
+<p>💽<b>Selenium:</b> An open-source tool for automating web browsers, supporting multiple languages to test web applications.<br></p>
+<p>🧰<b>TestNG:</b> A Java testing framework offering features like parallel execution and data-driven testing for large-scale test automation.<br></p>
+<p>📊<b>Allure:</b> A test reporting framework that integrates with tools like TestNG to generate detailed, dynamic HTML reports.<br></p>
+<p>🛠️ <b>Maven:</b> A build automation tool for managing Java project dependencies, structure, and the build lifecycle.<br></p>
+<p>🌳<b>Git:</b> A distributed version control system for tracking code changes and enabling collaboration among developers.<br></p>
+<p>🤖<b>Jenkins:</b> An open-source automation server for continuous integration and delivery (CI/CD), supporting various tool integrations.<br></p>
 
 <h2>📊 Reports </h2>
 
