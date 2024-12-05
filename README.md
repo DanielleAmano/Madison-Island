@@ -17,8 +17,9 @@ Additionally, I designed the methods to be reusable and flexible, ensuring they 
 
 <h2>📊 Reports </h2>
 
-
-<h2>📖 User Guide </h2>
+<!-- <h2>📖 User Guide </h2>
 Please review this file: https://docs.google.com/document/d/1krdPGVB7Q1rza0lzCrx5gbg1yLOrP-CuVnI-RYg-5f0/edit?usp=sharing
+ -->
+
 
 
