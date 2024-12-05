@@ -81,6 +81,6 @@ For any questions or feedback, feel free to contact me at: <br>
 📧 danielleamano01@gmail.com <br>
 📲 0502110677<br>
 <br>
-<img src="images/Picture.JPG" alt="A beautiful scenery"  width="200"  >
+<img src="images/Picture3.JPG" alt="A beautiful scenery"  width="200"  >
 
 [Back to top](#top)
