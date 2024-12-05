@@ -38,21 +38,21 @@ Please review this file: https://docs.google.com/document/d/1krdPGVB7Q1rza0lzCrx
  -->
 
 <h2>📂 Project Structure</h2> 
-├───.settings
-├───bin
-│   └───data
-│   ├───pages
-│   ├───tests
-│   └───utils
-├───src
-│   └───data
-│   ├───pages
-│   └───tests
-│   └───utils
-└───tests
-    └───tests
-└───utils
-    └───Utils
+├───.settings <br>
+├───bin <br>
+│   └───data <br>
+│   ├───pages <br>
+│   ├───tests <br>
+│   └───utils <br>
+├───src <br>
+│   └───data <br>
+│   ├───pages <br>
+│   └───tests <br>
+│   └───utils <br>
+└───tests <br>
+    └───tests <br>
+└───utils <br>
+    └───Utils <br>
 
 <h2>👩🏽‍🦱 Contacts </h2>
 Thanks for taking the time to explore my GitHub!
