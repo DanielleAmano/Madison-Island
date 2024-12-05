@@ -5,7 +5,7 @@ This is my first automation project with Java and Selenium, developed for shoppi
 <h2> 🔍 Overview </h2>
 I implemented the Page Object Model (POM) design pattern by organizing the project into 'Page' and 'Test' classes, where each web page is represented by its own corresponding class. <br>
 Additionally, I designed the methods to be reusable and flexible, ensuring they can easily accommodate new features as the application evolves.
-<img src="images/website-general.jpeg" alt="A beautiful scenery" width="500" height="300">
+<img src="images/website-general.jpeg" alt="A beautiful scenery" width="600"; text-align: center;>
 
 <h2>💻 Technologies </h2>
 ☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br>
