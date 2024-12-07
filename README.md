@@ -74,14 +74,25 @@ graph TD;
     Test1-->Automation_Infrastructure;
     Test2-->Automation_Infrastructure;
     Test3-->Automation_Infrastructure;
-``` 
+```
 
- 
-<h2> Contact</h2>
+<h2>☝️ Recommendations</h2>
+<ol>
+<li> Add a "Back" button on the 'item page' when browsing the Catalog.
+<li> After adding an item to the cart, a pop-up should prompt the user with options to either "Continue Shopping" or "Go to Cart".
+<li> Standardize the capitalization of item titles for consistency.
+<li> Add a "Continue Shopping" option on the checkout page.
+<li> The "Continue Shopping" button on the cart page should redirect to the page the user originated from.
+<li> Limit the maximum quantity of a cart item to 10.
+<li> Standardize the "BED & BATH" filter option in both the Catalog and Home & Decor sections.
+<li> Remove duplicate filters from the Women, Men, Accessories, and Home & Decor categories (e.g., "All Products," page names such as "Women", "Men", "Accessories", and "Home & Decor").
+<li> Add a "New Arrivals" filter to the Accessories and Home & Decor sections.
+</ol>
+
+<h2>📞 Contact</h2>
 Thanks for taking the time to explore my GitHub!<br>
 For any questions or feedback, feel free to contact me at: <br>
-📧 danielleamano01@gmail.com <br>
-📲 0502110677<br>
+📧 <b>danielleamano01@gmail.com </b><br> 
 <br>
 <img src="images/Picture3.JPG" alt="A beautiful scenery"  width="200"  >
 
